@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<section>
+	<title>We Need Feedback!</title>
+	<indexterm>
+		<primary>feedback1</primary>
+		<secondary>contact information for this manual</secondary>
+	</indexterm>
+	<para>
+		If you find a typographical error in this manual, or if you have thought of a way to make this manual better, we would love to hear from you. Please submit a report in our Bugzilla system: <ulink url="http://bugzilla.opennms.org">http://bugzilla.opennms.org</ulink>. 
+	</para>
+	<para>
+		Make sure to file against the problems in this manual against the Documentation component of the OpenNMS product, and to mention the identifier of this book: <citetitle>&BOOKID;</citetitle>
+	</para>
+	<para>
+		If you prefer to not use Bugzilla, or have a concern which requires a different level of feedback, you can also:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				Subscribe to one of the many <ulink url="http://www.opennms.org/wiki/Mailing_lists">OpenNMS Email Discussion Lists</ulink>
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Chat with us on IRC at irc.freenode.net in the #opennms channel.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+			Call, Write, Skype or Fax The OpenNMS Group's Commercial Support. Details for contacting The OpenNMS Group, Inc. can be found at the <ulink url="http://www.opennms.com/contact-us">Contact Us Form</ulink> on their website.
+			</para>
+		</listitem>
+	</itemizedlist>
+</section>

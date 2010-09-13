@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE legalnotice PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<legalnotice>
+	<para>
+		Copyright <trademark class="copyright"></trademark> &YEAR; &HOLDER;
+	</para>
+	
+	<para>
+		Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.1 or any later version published by the Free Software Foundation; with no Invariant Sections, with no Front-Cover Texts and with no Back-Cover Texts. A copy of the license is available at <ulink url="http://www.gnu.org/copyleft/fdl.html" />
+	</para>
+	
+	<para>
+		OpenNMS is the creation of numerous people and organizations, operating under the umbrella of the OpenNMS project. The original code base was developed and published under the GPL by the Oculan Corporation until 2002, when the project administration was passed on to Tarus Balog.
+	</para>
+	
+	<para>
+		The current corporate sponsor of OpenNMS is <ulink url="http://www.opennms.com">The OpenNMS Group</ulink>, which also owns the OpenNMS Trademark.
+	</para>
+	
+	<para>
+		Original Code base for OpenNMS version 1.0.0 <trademark class="copyright"></trademark> 1999-2001 <ulink url="http://www.oculan.com/">Oculan Corporation</ulink>.
+	</para>
+	
+	<para>
+		Mapping Code <trademark class="copyright"></trademark> 2003 <ulink url="http://www.nksi.com/">Networked Knowledge Systems</ulink>, Inc.
+	</para>
+	
+	<para>
+		ScriptD code <trademark class="copyright"></trademark> 2003 <ulink url="http://www.tavve.com/">Tavve Software Company</ulink>.
+	</para>
+	
+	<para>
+		<trademark class="registered">Java</trademark> and <trademark class="registered">Solaris</trademark> are registered trademarks of Oracle and/or its affiliates in the United States and other countries.
+	</para>
+	
+	<para>
+		<trademark class="registered">Linux</trademark> is a registered trademark of Linux Torvalds in the United States and other countries.
+	</para>
+
+	<para>
+		Red Hat, Red Hat Linux, Red Hat Enterprise Linux, and Fedora are trademarks of Red Hat, Inc., registered in the United States and other countries.
+	</para>
+	
+	<para>
+		<trademark class="registered">Mandriva</trademark> is a registered trademark of Mandriva S.A.	in the United States and other countries.
+	</para>
+	
+	<para>
+		<trademark class="registered">SuSE</trademark> is a registered trademark of Novell, Inc. in the United States and other countries.
+	</para>
+	
+	<para>
+		<trademark class="registered">Windows</trademark>, <trademark class="registered">Windows Server</trademark>,  <trademark class="registered">Windows XP</trademark>, <trademark class="registered">Windows Vista</trademark>, and <trademark class="registered">Windows 2000</trademark> are registered trademarks of Microsoft Corporation in the United States and other countries.
+	</para>
+
+	<para>
+		<trademark class="registered">Apple</trademark>, <trademark class="registered">Tiger</trademark>, <trademark class="registered">Leopard</trademark>, <trademark class="registered">Snow Leopard</trademark>, and <trademark class="registered">Mac OS</trademark> are registered trademarks of Apple, Inc. in the United States and other countries.
+	</para>
+	
+	<para>
+		<trademark class="registered">Ubuntu</trademark> is a registered trademark of Canonical Ltd.
+	</para>
+
+	<para>
+		<trademark class="registered">PostgreSQL</trademark> is a registered trademark of the PostgreSQL Global Development Group.
+	</para>
+
+	<para>
+		All other trademarks are property of their respective owners.
+	</para>
+	
+	<para>
+		Please send any omissions or corrections to this document to Tarus Balog <email>Tarus@opennms.org</email>
+	</para>
+</legalnotice>
